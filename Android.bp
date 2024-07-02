@@ -3,5 +3,5 @@ android_app_import {
     product_specific: true,
 
     apk: "prebuilt/Info.apk",
-    preprocessed: true,
+    presigned: true,
 }
