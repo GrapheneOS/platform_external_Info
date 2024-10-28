@@ -4,4 +4,6 @@ android_app_import {
 
     apk: "prebuilt/Info.apk",
     preprocessed: true,
+
+    optional_uses_libs: ["androidx.window.extensions", "androidx.window.sidecar"],
 }
